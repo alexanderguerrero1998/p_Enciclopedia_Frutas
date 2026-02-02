@@ -13,4 +13,5 @@
   <li>El listado poseerá un filtro de búsqueda.</li>
   <li>Al seleccionar un fruta del listado, el detalle mostrará los datos de la misma</li>
 </ul>
-![image alt](https://github.com/alexanderguerrero1998/p_Enciclopedia_Frutas/blob/b8ff8964c0f288d1b90f347dfa342641238d385d/img.png)
+
+![image alt](https://github.com/alexanderguerrero1998/p_Enciclopedia_Frutas/blob/b8ff8964c0f288d1b90f347dfa342641238d385d/img.png) 
