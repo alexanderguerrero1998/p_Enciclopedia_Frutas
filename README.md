@@ -8,7 +8,7 @@
 <hr/>
 <h3>Carateristicas de la aplicacion</h3>
 <ul>
-  <li> Usa el API: </li>
+  <li> Usa el API:https://www.fruityvice.com/api/fruit/all </li>
   <li>Muestra un listado y un detalle de cada fruta</li>
   <li>El listado poseerá un filtro de búsqueda.</li>
   <li>Al seleccionar un fruta del listado, el detalle mostrará los datos de la misma</li>
